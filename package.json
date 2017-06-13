@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-better-standard-react",
+  "version": "0.1.0",
+  "description": "A reasonable, extendable ESLint configuration (full config with dependencies) for JSX/React projects",
+  "main": "eslintrc.js",
+  "repository": "https://github.com/blakek/eslint-config-better-standard.git",
+  "author": "Blake Knight <oss.ideas@gmail.com> (http://blakek.me/)",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^4.0.0"
+  },
+  "dependencies": {
+    "eslint-config-better-standard": "^0.0.1",
+    "eslint-plugin-react": "^7.0.1"
+  }
+}
