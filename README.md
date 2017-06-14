@@ -1,5 +1,7 @@
 # eslint-config-better-standard-react
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakek/eslint-config-better-standard-react.svg)](https://greenkeeper.io/)
+
 > A reasonable, extendable ESLint configuration (full config with dependencies) for JSX/React projects
 
 I really enjoy [standard JS style](https://standardjs.com/), and I really enjoy their tools.  Without the enormous amount of work put into the [project](https://github.com/feross/standard), there is no way this one would exist.  However, there were things I also didn't particularly enjoy, so this is an attempt at a better version of standard that's like the coding styles actually being used.  For the foreseeable future, this will be fewer than 10 tweaks to standard.
